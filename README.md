@@ -1,16 +1,11 @@
-# jokenpo
+# JokenPo
 
-A new Flutter project.
+Um jogo de jokempô feito em Flutter
 
-## Getting Started
+## Informações
 
-This project is a starting point for a Flutter application.
+Pedra, papel e tesoura, também chamado em algumas regiões do Brasil de jokempô (do japonês じゃんけんぽん, jankenpon) é um jogo de mãos recreativo e simples para duas ou mais pessoas, que não requer equipamentos nem habilidade.
 
-A few resources to get you started if this is your first Flutter project:
+## Regras
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Escolha pedra, papel ou tesoura e descubra se você é melhor que o seu smartphone! : )
