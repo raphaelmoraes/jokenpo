@@ -119,19 +119,6 @@ class _JogoState extends State<Jogo> {
                   height: 100,
                 ),
               ),
-
-              /* Image.asset(
-                "imagens/pedra.png",
-                height: 100,
-              ),
-              Image.asset(
-                "imagens/papel.png",
-                height: 100,
-              ),
-              Image.asset(
-                "imagens/tesoura.png",
-                height: 100,
-              ), */
             ],
           )
         ],
